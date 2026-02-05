@@ -11,7 +11,7 @@
 <br />
 
 <div align="center">
-  <img src="assets/screenshot.png" width="100%" alt="Habit Tracker Mockup">
+  <img src="assets/screenshot.png" width="50%" alt="Habit Tracker Mockup">
 </div>
 
 ---
