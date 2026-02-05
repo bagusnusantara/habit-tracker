@@ -1,0 +1,34 @@
+# EAS Build Ignore File
+# This file is used to exclude files and directories from the project archive
+# that is uploaded to EAS Build.
+
+# Dependencies
+node_modules/
+
+# Build artifacts
+.expo/
+dist/
+web-build/
+
+# Native folders (managed by EAS Build if using Prebuild, but usually excluded from source archive)
+ios/
+android/
+
+# Environment files
+.env*.local
+
+# Debug and Logs
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+.metro-health-check*
+
+# OS specific
+.DS_Store
+
+# Git
+.git/
+.gitignore
+
+# Repository artifacts (since this is nested in a large repo)
+../
