@@ -11,7 +11,7 @@
 <br />
 
 <div align="center">
-  <img src="../assets/screenshot.png" width="100%" alt="Habit Tracker Mockup">
+  ![Habit Tracker Mockup](assets/screenshot.png)
 </div>
 
 ---
